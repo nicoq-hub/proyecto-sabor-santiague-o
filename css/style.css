@@ -1,0 +1,16 @@
+.navbar-custom {
+    background-color: #23283A; /* Un azul oscuro */
+    color: white; /* Color del texto */
+}
+
+.carousel-item img {
+    height: 500px; /* Ajusta la altura según tu diseño */
+    object-fit: cover; /* Recorta la imagen sin deformarla */
+}
+
+.footer-custom {
+    background-color: #23283A; /* Un azul oscuro */
+    color: white; /* Color del texto */
+
+}
+
